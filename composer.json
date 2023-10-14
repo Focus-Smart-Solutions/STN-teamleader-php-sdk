@@ -1,5 +1,5 @@
 {
-    "name": "janhenkes/teamleader-php-sdk",
+    "name": "focussmartsolutions/stn-teamleader-php-sdk",
     "type": "library",
     "description": "Teamleader API v2 PHP SDK",
     "keywords": ["teamleader"],
@@ -10,6 +10,12 @@
             "name": "Jan Henkes",
             "email": "jan@jannesmannes.nl",
             "homepage": "https://jannesmannes.nl",
+            "role": "Developer"
+        },
+        {
+            "name": "Focus Smart Solutions",
+            "email": "info@FocusSmartSolutions.nl",
+            "homepage": "https://www.FocusSmartSolutions.nl",
             "role": "Developer"
         }
     ],
